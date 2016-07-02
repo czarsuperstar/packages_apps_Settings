@@ -120,4 +120,7 @@ Notifications may be delayed for these apps."</string>
     <string name="app_package_name_title">Package</string>
     <string name="app_version_title">Version</string>
 
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+
 </resources>
