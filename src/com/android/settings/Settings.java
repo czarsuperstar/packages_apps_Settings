@@ -181,4 +181,6 @@ public class Settings extends SettingsActivity {
     // Freaky Graveyard
     public static class FreakyGraveyardActivity extends SettingsActivity { /* empty */ }
 
+    // Custom dashboard settings
+    public static class PowerMenuSettings extends SettingsActivity { /* empty */ }
 }

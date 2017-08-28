@@ -148,6 +148,7 @@ import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.wifi.savedaccesspoints.SavedAccessPointsWifiSettings;
 import com.android.settings.wifi.tether.WifiTetherSettings;
 import org.freaky.graveyard.FreakyGraveyard;
+import org.freaky.graveyard.fragments.PowerMenuSettings;
 
 public class SettingsGateway {
 
@@ -285,7 +286,8 @@ public class SettingsGateway {
             MobileNetworkListFragment.class.getName(),
             GlobalActionsPanelSettings.class.getName(),
             DarkModeSettingsFragment.class.getName(),
-            FreakyGraveyard.class.getName()
+            FreakyGraveyard.class.getName(),
+            PowerMenuSettings.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -325,5 +327,6 @@ public class SettingsGateway {
             Settings.ModuleLicensesActivity.class.getName(),
             UserBackupSettingsActivity.class.getName(),
             Settings.FreakyGraveyardActivity.class.getName(),
+            Settings.PowerMenuSettings.class.getName(),
     };
 }
