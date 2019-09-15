@@ -27,4 +27,7 @@
     <!-- Device specific doze package -->
     <string name="config_customDozePackage" translatable="false"></string>
 
+    <!-- Battery Temp. -->
+    <string name="battery_temp">Battery temperature</string>
+
 </resources>
