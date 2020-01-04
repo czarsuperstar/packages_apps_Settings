@@ -58,6 +58,9 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
     packages/apps/FreakyGraveyard/res
 
+LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
+    packages/apps/TouchGestures/res
+
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
 LOCAL_AAPT_FLAGS := --auto-add-overlay \
