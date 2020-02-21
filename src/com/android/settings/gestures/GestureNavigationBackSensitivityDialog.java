@@ -35,6 +35,7 @@ import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
  * Dialog to set the back gesture's sensitivity in Gesture navigation mode.
  */
 public class GestureNavigationBackSensitivityDialog extends InstrumentedDialogFragment {
+    private boolean mHapticSwitchChecked;
     private boolean mGesturePillSwitchChecked;
 
     private static final String TAG = "GestureNavigationBackSensitivityDialog";
@@ -69,6 +70,16 @@ public class GestureNavigationBackSensitivityDialog extends InstrumentedDialogFr
         seekBarSensitivity.setProgress(getArguments().getInt(KEY_BACK_SENSITIVITY));
         final SeekBar seekBarHeight = view.findViewById(R.id.back_height_seekbar);
         seekBarHeight.setProgress(getArguments().getInt(KEY_BACK_HEIGHT));
+        final Switch hapticSwitch = view.findViewById(R.id.back_gesture_haptic);
+        mHapticSwitchChecked = Settings.System.getInt(getActivity().getContentResolver(),
+                Settings.System.BACK_GESTURE_HAPTIC, 1) == 1;
+        hapticSwitch.setChecked(mHapticSwitchChecked);
+        hapticSwitch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mHapticSwitchChecked = hapticSwitch.isChecked() ? true : false;
+            }
+        });
         final Switch gesturePillSwitch = view.findViewById(R.id.gesture_pill_switch);
         mGesturePillSwitchChecked = Settings.System.getInt(getActivity().getContentResolver(),
                 Settings.System.GESTURE_PILL_TOGGLE, 0) == 1;
@@ -91,6 +102,8 @@ public class GestureNavigationBackSensitivityDialog extends InstrumentedDialogFr
                     SystemNavigationGestureSettings.setBackHeight(getActivity(), height);
                     SystemNavigationGestureSettings.setBackSensitivity(getActivity(),
                             getOverlayManager(), sensitivity);
+                    Settings.System.putInt(getContext().getContentResolver(),
+                            Settings.System.BACK_GESTURE_HAPTIC, mHapticSwitchChecked ? 1 : 0);
                     Settings.System.putInt(getActivity().getContentResolver(),
                             Settings.System.GESTURE_PILL_TOGGLE, mGesturePillSwitchChecked ? 1 : 0);
                     SystemNavigationGestureSettings.setBackGestureOverlaysToUse(getActivity());
