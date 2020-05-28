@@ -34,7 +34,7 @@ public class RomVersionDetailPreferenceController extends BasePreferenceControll
 
     private static final Uri INTENT_URI_DATA = Uri.parse("https://paypal.me/bunnyy95/");
     private static final String TAG = "romDialogCtrl";
-    private static final String ROM_PROPERTY = "org.freaky.build_version";
+    private static final String KEY_ROM_VERSION_PROP = "org.freaky.build_version";
     private static final String KEY_ROM_RELEASETYPE_PROP = "org.freaky.build_type";
     private final PackageManager mPackageManager = this.mContext.getPackageManager();
 
