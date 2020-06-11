@@ -1,0 +1,50 @@
+{
+  "team_github": "http://github.com/freakyos",
+  "team_telegram": "https://t.me/freakyos",
+  "team": [
+    {
+      "name": "bunnyy",
+      "role": "Owner | Lead Developer",
+      "avatar": "https://avatars0.githubusercontent.com/u/36611570?s=460&u=df96562277a778a09e0b7346793db7dd02c221ae&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=8946392",
+      "telegram_link": "https://t.me/bun_nyy"
+    },
+    {
+      "name": "Niteshkumar",
+      "role": "Boss | Core Developer",
+      "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=460&u=b88a37706a8969f67ebbe9e91f3f29b7fcacca03&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=9418003",
+      "telegram_link": "https://t.me/Niteshkumar15"
+    },
+    {
+      "name": "Swapnil Mhatre",
+      "role": "Graphics Designer",
+      "avatar": "https://avatars0.githubusercontent.com/u/66766359?s=460&u=c9089fa0339c25e946a8ba81910d8cf1ac2ce269&v=4",
+      "xda_link": "https://forum.xda-developers.com/",
+      "telegram_link": "https://t.me/swapie_mhatre"
+    },
+    {
+      "name": "Teenu Kumar",
+      "role": "Boot Animation Master",
+      "avatar": "https://avatars1.githubusercontent.com/u/48665989?s=460&u=954f1a42421b879a9ed9e8e895a8064dc0665283&v=4",
+      "xda_link": "https://forum.xda-developers.com/",
+      "telegram_link": "https://t.me/TdotK"
+    }
+  ],
+  "maintainers": [
+    {
+      "device": "Xiaomi Redmi Note 6 Pro (tulip)",
+      "name": "Nitesh Kumar",
+      "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=460&u=b88a37706a8969f67ebbe9e91f3f29b7fcacca03&v=4",
+      "xda_link": "TBD",
+      "github_link": "https://github.com/niteshkumar2000"
+    },
+    {
+      "device": "Samsung A3/A5/A7 2016 (A310XX/A510XX/A710XX)",
+      "name": "bunnyy",
+      "avatar": "https://avatars0.githubusercontent.com/u/36611570?s=460&u=df96562277a778a09e0b7346793db7dd02c221ae&v=4",
+      "xda_link": "TBD",
+      "github_link": "https://github.com/bunnyyTheFreak"
+    }
+  ]
+}
