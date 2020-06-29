@@ -56,9 +56,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     glide
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
-    packages/apps/FreakyGraveyard/res
-
-LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
+    packages/apps/FreakyGraveyard/res \
     packages/apps/TouchGestures/res
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
