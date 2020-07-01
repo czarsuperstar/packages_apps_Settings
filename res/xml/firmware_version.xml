@@ -45,6 +45,13 @@
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.AboutDeviceNamePreferenceController"/>
 
+    <!-- Device Maintainer -->
+    <Preference
+	android:key="maintainer"
+	android:title="@string/maintainer"
+	android:summary="@string/maintainer_name"
+	settings:enableCopying="true"/>
+
     <!-- ROM version -->
     <Preference
         android:key="os_rom_version"
