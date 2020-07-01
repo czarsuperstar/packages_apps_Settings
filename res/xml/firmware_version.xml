@@ -26,7 +26,7 @@
     <PreferenceScreen
         android:key="freaky_logo"
         android:clickable="true"
-        android:layout="@layout/freaky_logo" />
+        android:layout="@layout/freaky_logo"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.RomLogoPreferenceController"/>
 
     <!-- Android version -->
