@@ -57,6 +57,27 @@
       "avatar": "https://avatars1.githubusercontent.com/u/48665989?s=460&u=954f1a42421b879a9ed9e8e895a8064dc0665283&v=4",
       "xda_link": "https://forum.xda-developers.com/",
       "telegram_link": "https://t.me/TdotK"
+    },
+    {
+      "name": "Sambit",
+      "role": "Lead Coordinator",
+      "avatar": "https://avatars3.githubusercontent.com/u/64432227?s=400&u=29f955afe402010cec1f6dbbf61c75bd5ac02cd7&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=10219211",
+      "telegram_link": "https://t.me/thepsambit"
+    },
+    {
+      "name": "Shakil",
+      "role": "Coordinator",
+      "avatar": "https://avatars0.githubusercontent.com/u/62477080?s=400&u=553f2a29c8d6ca0c45829cca1776ee94687ca19e&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=9005676",
+      "telegram_link": "https://t.me/OG_SPEEDY"
+    },
+    {
+      "name": "Harman Singh",
+      "role": "Coordinator",
+      "avatar": "https://avatars0.githubusercontent.com/u/64060273?s=400&u=5e1e4dc2e542cd22befffa531da897a629101df6&v=44",
+      "xda_link": "https://forum.xda-developers.com",
+      "telegram_link": "https://t.me/fekingusername"
     }
   ],
   "maintainers": [
@@ -98,7 +119,7 @@
     {
       "device": "Xiaomi Redmi Note 9S/9 Pro \n[Curtana]",
       "name": "Shakil",
-      "avatar": "https://avatars0.githubusercontent.com/u/62477080?s=400&u=553f2a29c8d6ca0c45829cca1776ee94687ca19e&v=44",
+      "avatar": "https://avatars0.githubusercontent.com/u/62477080?s=400&u=553f2a29c8d6ca0c45829cca1776ee94687ca19e&v=4",
       "xda_link": "TBD",
       "github_link": "https://github.com/mdkaiom95"
     },
