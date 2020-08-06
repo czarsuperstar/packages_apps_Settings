@@ -4,14 +4,14 @@
   "team": [
     {
       "name": "bunnyy",
-      "role": "Owner \nLead Developer",
+      "role": "Owner & Lead Developer",
       "avatar": "https://avatars0.githubusercontent.com/u/36611570?s=460&u=df96562277a778a09e0b7346793db7dd02c221ae&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=8946392",
       "telegram_link": "https://t.me/bun_nyy"
     },
     {
       "name": "Niteshkumar",
-      "role": "Developer",
+      "role": "Developer & Webiste Master",
       "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=460&u=b88a37706a8969f67ebbe9e91f3f29b7fcacca03&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=9418003",
       "telegram_link": "https://t.me/Niteshkumar15"
@@ -59,6 +59,13 @@
       "telegram_link": "https://t.me/TdotK"
     },
     {
+      "name": "Amith Acharya",
+      "role": "Misc. Dev & Coordinator",
+      "avatar": "https://avatars2.githubusercontent.com/u/54846964?s=460&u=f43cf86e4446cee75895e17bff39eaa27004b37c&v=4",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
+      "telegram_link": "https://t.me/amith_acharya"
+    },
+    {
       "name": "Sambit",
       "role": "Lead Coordinator",
       "avatar": "https://avatars3.githubusercontent.com/u/64432227?s=400&u=29f955afe402010cec1f6dbbf61c75bd5ac02cd7&v=4",
@@ -89,7 +96,7 @@
       "github_link": "https://github.com/niteshkumar2000"
     },
     {
-      "device": "Xiaomi Redmi Note 8/Redmi 4/Redmi Y2 \n[ginkgo/santoni/ysl]",
+      "device": "Xiaomi Redmi 4/Y2/Note 8 \n[santoni/ysl/ginkgo]",
       "name": "Amith Acharya",
       "avatar": "https://avatars2.githubusercontent.com/u/54846964?s=460&u=f43cf86e4446cee75895e17bff39eaa27004b37c&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
