@@ -4,87 +4,99 @@
   "team": [
     {
       "name": "bunnyy",
-      "role": "Owner & Lead Developer",
+      "role": "Owner | Lead Developer",
       "avatar": "https://avatars0.githubusercontent.com/u/36611570?s=460&u=df96562277a778a09e0b7346793db7dd02c221ae&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=8946392",
-      "telegram_link": "https://t.me/bun_nyy"
+      "telegram_link": "https://t.me/bun_nyy",
+      "github_link": "https://github.com/bunnyyTheFreak"
     },
     {
       "name": "Niteshkumar",
-      "role": "Developer & Webiste Master",
+      "role": "Developer",
       "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=460&u=b88a37706a8969f67ebbe9e91f3f29b7fcacca03&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=9418003",
-      "telegram_link": "https://t.me/Niteshkumar15"
+      "telegram_link": "https://t.me/Niteshkumar15",
+      "github_link": "https://github.com/niteshkumar2000"
     },
     {
       "name": "Sahil Sonar",
       "role": "Developer",
       "avatar": "https://avatars0.githubusercontent.com/u/35803064?s=400&u=be2696e7e4f6ce15ca3547feb815b210af56bf57&v=4",
       "xda_link": "https://forum.xda-developers.com",
-      "telegram_link": "https://t.me/SahilSonar"
+      "telegram_link": "https://t.me/SahilSonar",
+      "github_link": "https://github.com/SahilSonar"
     },
     {
       "name": "Prituvi",
-      "role": "UI/UX Developer",
+      "role": "App Developer",
       "avatar": "https://avatars0.githubusercontent.com/u/37809654?s=400&u=65a7a2dbc384eab1c45e5fd2b2ccef30169e9247&v=4",
       "xda_link": "https://forum.xda-developers.com",
-      "telegram_link": "https://t.me/pruthvi_21"
+      "telegram_link": "https://t.me/pruthvi_21",
+      "github_link": "https://github.com/pruthvi-21"
     },
     {
       "name": "Aakash Hemadri",
-      "role": "Website Master",
+      "role": "Website Developer",
       "avatar": "https://avatars2.githubusercontent.com/u/24451176?s=400&u=7597cfa78e8be2ded3638ae846a60bc344acb8d8&v=4",
       "xda_link": "https://forum.xda-developers.com",
-      "telegram_link": "https://t.me/aakashhemadri"
+      "telegram_link": "https://t.me/aakashhemadri",
+      "github_link": "https://github.com/aakashhemadri"
     },
     {
       "name": "Jeivardan",
-      "role": "Website Master",
+      "role": "Website Developer",
       "avatar": "https://avatars0.githubusercontent.com/u/36626247?s=400&u=ae21c3af1f68c68e8ec86d944a29ac82e7a9aa8b&v=4",
       "xda_link": "https://forum.xda-developers.com",
-      "telegram_link": "https://t.me/jeivardan"
+      "telegram_link": "https://t.me/jeivardan",
+      "github_link": "https://github.com/Jeivardan"
     },
     {
       "name": "Swapnil Mhatre",
       "role": "Logo Designer",
       "avatar": "https://avatars0.githubusercontent.com/u/66766359?s=460&u=c9089fa0339c25e946a8ba81910d8cf1ac2ce269&v=4",
       "xda_link": "https://forum.xda-developers.com/",
-      "telegram_link": "https://t.me/swapie_mhatre"
+      "telegram_link": "https://t.me/swapie_mhatre",
+      "github_link": "https://github.com/swapiemhatre4444"
     },
     {
       "name": "Teenu Kumar",
       "role": "Boot Animation Designer",
       "avatar": "https://avatars1.githubusercontent.com/u/48665989?s=460&u=954f1a42421b879a9ed9e8e895a8064dc0665283&v=4",
       "xda_link": "https://forum.xda-developers.com/",
-      "telegram_link": "https://t.me/TdotK"
+      "telegram_link": "https://t.me/TdotK",
+      "github_link": "https://github.com/kumarteenu123"
     },
     {
       "name": "Amith Acharya",
-      "role": "Misc. Dev & Coordinator",
+      "role": "XDA Template Maintainer",
       "avatar": "https://avatars2.githubusercontent.com/u/54846964?s=460&u=f43cf86e4446cee75895e17bff39eaa27004b37c&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=10601659",
-      "telegram_link": "https://t.me/amith_acharya"
+      "telegram_link": "https://t.me/amith_acharya",
+      "github_link": "https://github.com/amith07"
     },
     {
       "name": "Sambit",
       "role": "Lead Coordinator",
       "avatar": "https://avatars3.githubusercontent.com/u/64432227?s=400&u=29f955afe402010cec1f6dbbf61c75bd5ac02cd7&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=10219211",
-      "telegram_link": "https://t.me/thepsambit"
+      "telegram_link": "https://t.me/thepsambit",
+      "github_link": "https://github.com/thepsambit"
     },
     {
       "name": "Shakil",
       "role": "Coordinator",
       "avatar": "https://avatars0.githubusercontent.com/u/62477080?s=400&u=553f2a29c8d6ca0c45829cca1776ee94687ca19e&v=4",
       "xda_link": "https://forum.xda-developers.com/member.php?u=9005676",
-      "telegram_link": "https://t.me/OG_SPEEDY"
+      "telegram_link": "https://t.me/OG_SPEEDY",
+      "github_link": "https://github.com/mdkaiom95"
     },
     {
       "name": "Harman Singh",
       "role": "Coordinator",
       "avatar": "https://avatars0.githubusercontent.com/u/64060273?s=400&u=5e1e4dc2e542cd22befffa531da897a629101df6&v=44",
       "xda_link": "https://forum.xda-developers.com",
-      "telegram_link": "https://t.me/fekingusername"
+      "telegram_link": "https://t.me/fekingusername",
+      "github_link": "https://github.com/Harman-08"
     }
   ],
   "maintainers": [
@@ -92,7 +104,7 @@
       "device": "Xiaomi Redmi Note 6 Pro \n[tulip]",
       "name": "Nitesh Kumar",
       "avatar": "https://avatars2.githubusercontent.com/u/36584997?s=460&u=b88a37706a8969f67ebbe9e91f3f29b7fcacca03&v=4",
-      "xda_link": "TBD",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=9418003",
       "github_link": "https://github.com/niteshkumar2000"
     },
     {
@@ -134,7 +146,7 @@
       "device": "Samsung A3/A5/A7 2016 \n[A310XX/A510XX/A710XX]",
       "name": "bunnyy",
       "avatar": "https://avatars0.githubusercontent.com/u/36611570?s=460&u=df96562277a778a09e0b7346793db7dd02c221ae&v=4",
-      "xda_link": "TBD",
+      "xda_link": "https://forum.xda-developers.com/member.php?u=8946392",
       "github_link": "https://github.com/bunnyyTheFreak"
     },
     {
